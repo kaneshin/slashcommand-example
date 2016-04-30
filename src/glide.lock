@@ -1,0 +1,43 @@
+hash: ccd7bc89d6545067f630badc2ac38dd7efd9e0eaf6c5479571b527178cbe768f
+updated: 2016-04-30T08:55:53.914349765Z
+imports:
+- name: github.com/favclip/qbg
+  version: 0353a2fbcf19b050ba1e935d0fa488c32737667d
+  subpackages:
+  - qbgutils
+- name: github.com/favclip/ucon
+  version: 64a9c5f7aad896c0f8fbd00cbe66dd6b48d850bf
+  subpackages:
+  - swagger
+- name: github.com/golang/protobuf
+  version: 7cc19b78d562895b13596ddce7aafb59dd789318
+  subpackages:
+  - proto
+  - proto/testdata
+  - ptypes/any
+- name: github.com/mjibson/goon
+  version: f99149e651e1f35d52dfbf8ac32aa87385d828fc
+- name: golang.org/x/net
+  version: 1aafd77e1e7f6849ad16a7bdeb65e3589a10b2bb
+  subpackages:
+  - context
+- name: google.golang.org/appengine
+  version: e234e71924d4aa52444bc76f2f831f13fa1eca60
+  subpackages:
+  - datastore
+  - log
+  - memcache
+  - internal
+  - internal/app_identity
+  - internal/modules
+  - user
+  - internal/base
+  - internal/blobstore
+  - internal/capability
+  - internal/channel
+  - internal/datastore
+  - taskqueue
+  - internal/image
+  - internal/log
+  - internal/remote_api
+devImports: []
